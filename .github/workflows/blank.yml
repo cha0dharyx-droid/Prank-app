@@ -1,0 +1,25 @@
+import time
+
+print("--- 📱 Phone Compatibility Test 📱 ---")
+name = input("\nApna naam daalo check karne ke liye: ")
+op = input("\nphone screen time kya h ")
+
+print(f"\nScanning {name}'s phone...")
+time.sleep(2)
+
+print(f"\n⚠️ WARNING! WARNING!")
+print(f"Danger! {name} ka dimaag 99% khali paaya gaya hai! 😂")
+print("Data loading: █▒▒▒▒▒▒▒▒▒ 10%")
+time.sleep(1.5)
+print("Data loading: ███████▒▒▒ 70%")
+time.sleep(1.5)
+print("Data loading: ██████████ 100%")
+
+
+print (f"phone chalana Chhod de {name}" )
+print ("Nhi to Andha Ho Jayega")
+time.sleep(2)
+
+
+
+print ("Beta Hacker hi kehde")
